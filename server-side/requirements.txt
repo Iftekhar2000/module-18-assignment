@@ -1,0 +1,8 @@
+Create a blog project
+
+1. blog model
+2. user model
+3. user authentication
+4. blog crud
+5. comments and comments crud
+6. user registration
